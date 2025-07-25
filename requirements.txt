@@ -1,0 +1,26 @@
+# متطلبات منظم المشاريع الاحترافي
+# Professional Project Organizer Requirements
+
+# المكتبات الأساسية مدمجة مع Python
+# Core libraries included with Python:
+# - tkinter (GUI framework)
+# - sqlite3 (Database)
+# - json (JSON handling)
+# - os (Operating system interface)
+# - datetime (Date and time handling)
+# - pathlib (Path handling)
+
+# لا توجد متطلبات خارجية إضافية
+# No additional external requirements needed
+
+# الحد الأدنى لإصدار Python
+# Minimum Python version: 3.7+
+
+# للتحقق من إصدار Python:
+# To check Python version:
+# python --version
+# or
+# python3 --version
+
+# ملاحظة: جميع المكتبات المستخدمة مدمجة مع Python
+# Note: All libraries used are included with Python standard library
